@@ -2,9 +2,9 @@
 # Trabalho Prático - Semanas 3 e 4
 
 ## Informações Gerais
-- Nome: 
-- Matricula:
+- Nome: Davi Manoel Bernardes
+- Matricula: 865235
 
 ## Print da tela da página criada (Curriculum Vitae)
 
-`<Coloque aqui o print da tela do Curriculum Vitae>`
+![Print do CV](print.png)
